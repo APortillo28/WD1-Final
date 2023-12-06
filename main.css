@@ -100,7 +100,7 @@ main {
     font-weight: bold;
     color: #38393D;
     border: none;
-    background-image: url('../images/hero\ image\ 1.jpg');    
+    background-image: url('hero\ image\ 1.jpg');    
 }
 
 #ShopNowButton2 {
@@ -118,7 +118,7 @@ main {
     font-weight: bold;
     color: #38393D;
     border: none;
-    background-image: url('../images/hero-image-2.jpg');    
+    background-image: url('hero-image-2.jpg');    
 }
 
 #ShopNowButton3 {
@@ -136,7 +136,7 @@ main {
     font-weight: bold;
     color: #38393D;
     border: none;
-    background-image: url('../images/hero-image-3.jpg');    
+    background-image: url('hero-image-3.jpg');    
 }
 
 #ShopNowButton4 {
@@ -154,7 +154,7 @@ main {
     font-weight: bold;
     color: #38393D;
     border: none;
-    background-image: url('../images/hero-image-4.jpg');
+    background-image: url('hero-image-4.jpg');
 }
 
 #ShopNowButton1:link, #ShopNowButton1:visited{
